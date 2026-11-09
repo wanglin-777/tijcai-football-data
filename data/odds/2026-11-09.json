@@ -1,6 +1,6 @@
 {
     "date":  "2026-11-09",
-    "fetchedAt":  "2026-11-09T18:19:09+08:00",
+    "fetchedAt":  "2026-11-09T19:25:53+08:00",
     "source":  "https://webapi.sporttery.cn/gateway/jc/football/getMatchCalculatorV1.qry",
     "count":  4,
     "matches":  [
@@ -22,16 +22,16 @@
                                 },
                         "groupName":  "",
                         "had":  {
-                                    "a":  "2.57",
-                                    "af":  "0",
-                                    "d":  "3.38",
-                                    "df":  "0",
+                                    "a":  "2.62",
+                                    "af":  "1",
+                                    "d":  "3.30",
+                                    "df":  "-1",
                                     "goalLine":  "",
                                     "goalLineValue":  "",
                                     "h":  "2.20",
                                     "hf":  "0",
                                     "updateDate":  "2026-11-09",
-                                    "updateTime":  "09:19:07"
+                                    "updateTime":  "18:37:35"
                                 },
                         "hafu":  {
 
@@ -39,14 +39,14 @@
                         "hhad":  {
                                      "a":  "1.50",
                                      "af":  "0",
-                                     "d":  "3.95",
-                                     "df":  "0",
+                                     "d":  "3.85",
+                                     "df":  "-1",
                                      "goalLine":  "-1",
                                      "goalLineValue":  "-1.00",
-                                     "h":  "4.55",
-                                     "hf":  "0",
+                                     "h":  "4.70",
+                                     "hf":  "1",
                                      "updateDate":  "2026-11-09",
-                                     "updateTime":  "09:19:05"
+                                     "updateTime":  "18:37:42"
                                  },
                         "homeRank":  "[北区F组2]",
                         "homeTeamAbbEnName":  "BTA",
@@ -73,22 +73,22 @@
                         "oddsList":  [
                                          {
                                              "a":  "1.500",
-                                             "d":  "3.950",
+                                             "d":  "3.850",
                                              "goalLine":  "-1",
                                              "goalLineF":  "",
                                              "goalLineValue":  "-1.00",
-                                             "h":  "4.550",
+                                             "h":  "4.700",
                                              "matchId":  0,
                                              "matchNum":  0,
                                              "odds":  "",
                                              "poolCode":  "HHAD",
                                              "poolId":  2202716,
                                              "updateDate":  "2026-11-09",
-                                             "updateTime":  "09:19:05"
+                                             "updateTime":  "18:37:42"
                                          },
                                          {
-                                             "a":  "2.570",
-                                             "d":  "3.380",
+                                             "a":  "2.620",
+                                             "d":  "3.300",
                                              "goalLine":  "",
                                              "goalLineF":  "",
                                              "goalLineValue":  "",
@@ -99,26 +99,26 @@
                                              "poolCode":  "HAD",
                                              "poolId":  2202716,
                                              "updateDate":  "2026-11-09",
-                                             "updateTime":  "09:19:07"
+                                             "updateTime":  "18:37:35"
                                          },
                                          {
                                              "a":  "1.500",
-                                             "d":  "3.950",
+                                             "d":  "3.850",
                                              "goalLine":  "-1",
                                              "goalLineF":  "",
                                              "goalLineValue":  "-1.00",
-                                             "h":  "4.550",
+                                             "h":  "4.700",
                                              "matchId":  0,
                                              "matchNum":  0,
                                              "odds":  "",
                                              "poolCode":  "HHAD",
                                              "poolId":  2202709,
                                              "updateDate":  "2026-11-09",
-                                             "updateTime":  "09:19:05"
+                                             "updateTime":  "18:37:42"
                                          },
                                          {
-                                             "a":  "2.570",
-                                             "d":  "3.380",
+                                             "a":  "2.620",
+                                             "d":  "3.300",
                                              "goalLine":  "",
                                              "goalLineF":  "",
                                              "goalLineValue":  "",
@@ -129,7 +129,7 @@
                                              "poolCode":  "HAD",
                                              "poolId":  2202709,
                                              "updateDate":  "2026-11-09",
-                                             "updateTime":  "09:19:07"
+                                             "updateTime":  "18:37:35"
                                          }
                                      ],
                         "poolList":  [
