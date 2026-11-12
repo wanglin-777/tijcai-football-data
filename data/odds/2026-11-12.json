@@ -1,6 +1,6 @@
 {
     "date":  "2026-11-12",
-    "fetchedAt":  "2026-11-12T08:34:35+08:00",
+    "fetchedAt":  "2026-11-12T12:30:05+08:00",
     "source":  "https://webapi.sporttery.cn/gateway/jc/football/getMatchCalculatorV1.qry",
     "count":  6,
     "matches":  [
@@ -22,31 +22,31 @@
                                 },
                         "groupName":  "",
                         "had":  {
-                                    "a":  "1.63",
-                                    "af":  "0",
-                                    "d":  "3.95",
-                                    "df":  "0",
+                                    "a":  "1.61",
+                                    "af":  "1",
+                                    "d":  "4.00",
+                                    "df":  "-1",
                                     "goalLine":  "",
                                     "goalLineValue":  "",
-                                    "h":  "3.66",
-                                    "hf":  "0",
-                                    "updateDate":  "2026-11-11",
-                                    "updateTime":  "18:21:44"
+                                    "h":  "3.72",
+                                    "hf":  "-1",
+                                    "updateDate":  "2026-11-12",
+                                    "updateTime":  "12:23:12"
                                 },
                         "hafu":  {
 
                                  },
                         "hhad":  {
-                                     "a":  "2.77",
-                                     "af":  "0",
-                                     "d":  "3.80",
-                                     "df":  "0",
+                                     "a":  "2.67",
+                                     "af":  "1",
+                                     "d":  "3.78",
+                                     "df":  "1",
                                      "goalLine":  "+1",
                                      "goalLineValue":  "+1.00",
-                                     "h":  "1.94",
-                                     "hf":  "0",
-                                     "updateDate":  "2026-11-11",
-                                     "updateTime":  "18:21:38"
+                                     "h":  "2.00",
+                                     "hf":  "-1",
+                                     "updateDate":  "2026-11-12",
+                                     "updateTime":  "12:23:27"
                                  },
                         "homeRank":  "[Group 14]",
                         "homeTeamAbbEnName":  "TUR",
@@ -72,74 +72,74 @@
                         "matchWeek":  "周四",
                         "oddsList":  [
                                          {
-                                             "a":  "2.770",
-                                             "d":  "3.800",
+                                             "a":  "2.670",
+                                             "d":  "3.780",
                                              "goalLine":  "+1",
                                              "goalLineF":  "",
                                              "goalLineValue":  "+1.00",
-                                             "h":  "1.940",
+                                             "h":  "2.000",
                                              "matchId":  0,
                                              "matchNum":  0,
                                              "odds":  "",
                                              "poolCode":  "HHAD",
                                              "poolId":  2202813,
-                                             "updateDate":  "2026-11-11",
-                                             "updateTime":  "18:21:38"
+                                             "updateDate":  "2026-11-12",
+                                             "updateTime":  "12:23:27"
                                          },
                                          {
-                                             "a":  "1.630",
-                                             "d":  "3.950",
+                                             "a":  "1.610",
+                                             "d":  "4.000",
                                              "goalLine":  "",
                                              "goalLineF":  "",
                                              "goalLineValue":  "",
-                                             "h":  "3.660",
+                                             "h":  "3.720",
                                              "matchId":  0,
                                              "matchNum":  0,
                                              "odds":  "",
                                              "poolCode":  "HAD",
                                              "poolId":  2202813,
-                                             "updateDate":  "2026-11-11",
-                                             "updateTime":  "18:21:44"
+                                             "updateDate":  "2026-11-12",
+                                             "updateTime":  "12:23:12"
                                          },
                                          {
-                                             "a":  "2.770",
-                                             "d":  "3.800",
+                                             "a":  "2.670",
+                                             "d":  "3.780",
                                              "goalLine":  "+1",
                                              "goalLineF":  "",
                                              "goalLineValue":  "+1.00",
-                                             "h":  "1.940",
+                                             "h":  "2.000",
                                              "matchId":  0,
                                              "matchNum":  0,
                                              "odds":  "",
                                              "poolCode":  "HHAD",
                                              "poolId":  2202808,
-                                             "updateDate":  "2026-11-11",
-                                             "updateTime":  "18:21:38"
+                                             "updateDate":  "2026-11-12",
+                                             "updateTime":  "12:23:27"
                                          },
                                          {
-                                             "a":  "1.630",
-                                             "d":  "3.950",
+                                             "a":  "1.610",
+                                             "d":  "4.000",
                                              "goalLine":  "",
                                              "goalLineF":  "",
                                              "goalLineValue":  "",
-                                             "h":  "3.660",
+                                             "h":  "3.720",
                                              "matchId":  0,
                                              "matchNum":  0,
                                              "odds":  "",
                                              "poolCode":  "HAD",
                                              "poolId":  2202808,
-                                             "updateDate":  "2026-11-11",
-                                             "updateTime":  "18:21:44"
+                                             "updateDate":  "2026-11-12",
+                                             "updateTime":  "12:23:12"
                                          }
                                      ],
                         "poolList":  [
                                          {
-                                             "allUp":  0,
+                                             "allUp":  1,
                                              "bettingAllup":  1,
                                              "bettingSingle":  0,
-                                             "cbtAllUp":  0,
+                                             "cbtAllUp":  1,
                                              "cbtSingle":  0,
-                                             "cbtValue":  2,
+                                             "cbtValue":  1,
                                              "fixedOddsgoalLine":  "",
                                              "intAllUp":  0,
                                              "intSingle":  0,
@@ -162,12 +162,12 @@
                                              "vbtValue":  0
                                          },
                                          {
-                                             "allUp":  0,
+                                             "allUp":  1,
                                              "bettingAllup":  1,
                                              "bettingSingle":  1,
-                                             "cbtAllUp":  0,
-                                             "cbtSingle":  0,
-                                             "cbtValue":  2,
+                                             "cbtAllUp":  1,
+                                             "cbtSingle":  1,
+                                             "cbtValue":  1,
                                              "fixedOddsgoalLine":  "",
                                              "intAllUp":  0,
                                              "intSingle":  0,
@@ -182,7 +182,7 @@
                                              "poolStatus":  "Selling",
                                              "sellInitialDate":  "",
                                              "sellInitialTime":  "",
-                                             "single":  0,
+                                             "single":  1,
                                              "updateDate":  "",
                                              "updateTime":  "",
                                              "vbtAllUp":  0,
@@ -191,7 +191,7 @@
                                          }
                                      ],
                         "remark":  "",
-                        "sellStatus":  2,
+                        "sellStatus":  1,
                         "taxDateNo":  "2611121",
                         "ttg":  {
 
@@ -218,31 +218,31 @@
                                 },
                         "groupName":  "",
                         "had":  {
-                                    "a":  "3.00",
-                                    "af":  "0",
-                                    "d":  "3.15",
-                                    "df":  "0",
+                                    "a":  "2.75",
+                                    "af":  "-1",
+                                    "d":  "3.11",
+                                    "df":  "-1",
                                     "goalLine":  "",
                                     "goalLineValue":  "",
-                                    "h":  "2.05",
-                                    "hf":  "0",
-                                    "updateDate":  "2026-11-11",
-                                    "updateTime":  "09:28:01"
+                                    "h":  "2.20",
+                                    "hf":  "1",
+                                    "updateDate":  "2026-11-12",
+                                    "updateTime":  "11:34:22"
                                 },
                         "hafu":  {
 
                                  },
                         "hhad":  {
-                                     "a":  "1.58",
-                                     "af":  "0",
-                                     "d":  "3.60",
-                                     "df":  "0",
+                                     "a":  "1.50",
+                                     "af":  "-1",
+                                     "d":  "3.75",
+                                     "df":  "1",
                                      "goalLine":  "-1",
                                      "goalLineValue":  "-1.00",
-                                     "h":  "4.40",
-                                     "hf":  "0",
-                                     "updateDate":  "2026-11-11",
-                                     "updateTime":  "09:28:01"
+                                     "h":  "4.85",
+                                     "hf":  "1",
+                                     "updateDate":  "2026-11-12",
+                                     "updateTime":  "11:34:26"
                                  },
                         "homeRank":  "[Group 23]",
                         "homeTeamAbbEnName":  "ARM",
@@ -268,74 +268,74 @@
                         "matchWeek":  "周四",
                         "oddsList":  [
                                          {
-                                             "a":  "1.580",
-                                             "d":  "3.600",
+                                             "a":  "1.500",
+                                             "d":  "3.750",
                                              "goalLine":  "-1",
                                              "goalLineF":  "",
                                              "goalLineValue":  "-1.00",
-                                             "h":  "4.400",
+                                             "h":  "4.850",
                                              "matchId":  0,
                                              "matchNum":  0,
                                              "odds":  "",
                                              "poolCode":  "HHAD",
                                              "poolId":  2202801,
-                                             "updateDate":  "2026-11-11",
-                                             "updateTime":  "09:28:01"
+                                             "updateDate":  "2026-11-12",
+                                             "updateTime":  "11:34:26"
                                          },
                                          {
-                                             "a":  "3.000",
-                                             "d":  "3.150",
+                                             "a":  "2.750",
+                                             "d":  "3.110",
                                              "goalLine":  "",
                                              "goalLineF":  "",
                                              "goalLineValue":  "",
-                                             "h":  "2.050",
+                                             "h":  "2.200",
                                              "matchId":  0,
                                              "matchNum":  0,
                                              "odds":  "",
                                              "poolCode":  "HAD",
                                              "poolId":  2202801,
-                                             "updateDate":  "2026-11-11",
-                                             "updateTime":  "09:28:01"
+                                             "updateDate":  "2026-11-12",
+                                             "updateTime":  "11:34:22"
                                          },
                                          {
-                                             "a":  "1.580",
-                                             "d":  "3.600",
+                                             "a":  "1.500",
+                                             "d":  "3.750",
                                              "goalLine":  "-1",
                                              "goalLineF":  "",
                                              "goalLineValue":  "-1.00",
-                                             "h":  "4.400",
+                                             "h":  "4.850",
                                              "matchId":  0,
                                              "matchNum":  0,
                                              "odds":  "",
                                              "poolCode":  "HHAD",
                                              "poolId":  2202805,
-                                             "updateDate":  "2026-11-11",
-                                             "updateTime":  "09:28:01"
+                                             "updateDate":  "2026-11-12",
+                                             "updateTime":  "11:34:26"
                                          },
                                          {
-                                             "a":  "3.000",
-                                             "d":  "3.150",
+                                             "a":  "2.750",
+                                             "d":  "3.110",
                                              "goalLine":  "",
                                              "goalLineF":  "",
                                              "goalLineValue":  "",
-                                             "h":  "2.050",
+                                             "h":  "2.200",
                                              "matchId":  0,
                                              "matchNum":  0,
                                              "odds":  "",
                                              "poolCode":  "HAD",
                                              "poolId":  2202805,
-                                             "updateDate":  "2026-11-11",
-                                             "updateTime":  "09:28:01"
+                                             "updateDate":  "2026-11-12",
+                                             "updateTime":  "11:34:22"
                                          }
                                      ],
                         "poolList":  [
                                          {
-                                             "allUp":  0,
+                                             "allUp":  1,
                                              "bettingAllup":  1,
                                              "bettingSingle":  0,
-                                             "cbtAllUp":  0,
+                                             "cbtAllUp":  1,
                                              "cbtSingle":  0,
-                                             "cbtValue":  2,
+                                             "cbtValue":  1,
                                              "fixedOddsgoalLine":  "",
                                              "intAllUp":  0,
                                              "intSingle":  0,
@@ -358,12 +358,12 @@
                                              "vbtValue":  0
                                          },
                                          {
-                                             "allUp":  0,
+                                             "allUp":  1,
                                              "bettingAllup":  1,
                                              "bettingSingle":  0,
-                                             "cbtAllUp":  0,
+                                             "cbtAllUp":  1,
                                              "cbtSingle":  0,
-                                             "cbtValue":  2,
+                                             "cbtValue":  1,
                                              "fixedOddsgoalLine":  "",
                                              "intAllUp":  0,
                                              "intSingle":  0,
@@ -387,7 +387,7 @@
                                          }
                                      ],
                         "remark":  "",
-                        "sellStatus":  2,
+                        "sellStatus":  1,
                         "taxDateNo":  "2611121",
                         "ttg":  {
 
@@ -414,31 +414,31 @@
                                 },
                         "groupName":  "",
                         "had":  {
-                                    "a":  "3.78",
+                                    "a":  "3.95",
                                     "af":  "0",
-                                    "d":  "3.13",
+                                    "d":  "3.08",
                                     "df":  "0",
                                     "goalLine":  "",
                                     "goalLineValue":  "",
-                                    "h":  "1.80",
+                                    "h":  "1.78",
                                     "hf":  "0",
-                                    "updateDate":  "2026-11-11",
-                                    "updateTime":  "09:28:01"
+                                    "updateDate":  "2026-11-12",
+                                    "updateTime":  "10:29:49"
                                 },
                         "hafu":  {
 
                                  },
                         "hhad":  {
-                                     "a":  "1.77",
+                                     "a":  "1.75",
                                      "af":  "0",
                                      "d":  "3.20",
                                      "df":  "0",
                                      "goalLine":  "-1",
                                      "goalLineValue":  "-1.00",
-                                     "h":  "3.82",
+                                     "h":  "3.92",
                                      "hf":  "0",
-                                     "updateDate":  "2026-11-11",
-                                     "updateTime":  "09:28:01"
+                                     "updateDate":  "2026-11-12",
+                                     "updateTime":  "10:29:58"
                                  },
                         "homeRank":  "[Group 11]",
                         "homeTeamAbbEnName":  "ALA",
@@ -464,74 +464,74 @@
                         "matchWeek":  "周四",
                         "oddsList":  [
                                          {
-                                             "a":  "1.770",
+                                             "a":  "1.750",
                                              "d":  "3.200",
                                              "goalLine":  "-1",
                                              "goalLineF":  "",
                                              "goalLineValue":  "-1.00",
-                                             "h":  "3.820",
+                                             "h":  "3.920",
                                              "matchId":  0,
                                              "matchNum":  0,
                                              "odds":  "",
                                              "poolCode":  "HHAD",
                                              "poolId":  2202829,
-                                             "updateDate":  "2026-11-11",
-                                             "updateTime":  "09:28:01"
+                                             "updateDate":  "2026-11-12",
+                                             "updateTime":  "10:29:58"
                                          },
                                          {
-                                             "a":  "3.780",
-                                             "d":  "3.130",
+                                             "a":  "3.950",
+                                             "d":  "3.080",
                                              "goalLine":  "",
                                              "goalLineF":  "",
                                              "goalLineValue":  "",
-                                             "h":  "1.800",
+                                             "h":  "1.780",
                                              "matchId":  0,
                                              "matchNum":  0,
                                              "odds":  "",
                                              "poolCode":  "HAD",
                                              "poolId":  2202829,
-                                             "updateDate":  "2026-11-11",
-                                             "updateTime":  "09:28:01"
+                                             "updateDate":  "2026-11-12",
+                                             "updateTime":  "10:29:49"
                                          },
                                          {
-                                             "a":  "1.770",
+                                             "a":  "1.750",
                                              "d":  "3.200",
                                              "goalLine":  "-1",
                                              "goalLineF":  "",
                                              "goalLineValue":  "-1.00",
-                                             "h":  "3.820",
+                                             "h":  "3.920",
                                              "matchId":  0,
                                              "matchNum":  0,
                                              "odds":  "",
                                              "poolCode":  "HHAD",
                                              "poolId":  2202828,
-                                             "updateDate":  "2026-11-11",
-                                             "updateTime":  "09:28:01"
+                                             "updateDate":  "2026-11-12",
+                                             "updateTime":  "10:29:58"
                                          },
                                          {
-                                             "a":  "3.780",
-                                             "d":  "3.130",
+                                             "a":  "3.950",
+                                             "d":  "3.080",
                                              "goalLine":  "",
                                              "goalLineF":  "",
                                              "goalLineValue":  "",
-                                             "h":  "1.800",
+                                             "h":  "1.780",
                                              "matchId":  0,
                                              "matchNum":  0,
                                              "odds":  "",
                                              "poolCode":  "HAD",
                                              "poolId":  2202828,
-                                             "updateDate":  "2026-11-11",
-                                             "updateTime":  "09:28:01"
+                                             "updateDate":  "2026-11-12",
+                                             "updateTime":  "10:29:49"
                                          }
                                      ],
                         "poolList":  [
                                          {
-                                             "allUp":  0,
+                                             "allUp":  1,
                                              "bettingAllup":  1,
                                              "bettingSingle":  0,
-                                             "cbtAllUp":  0,
+                                             "cbtAllUp":  1,
                                              "cbtSingle":  0,
-                                             "cbtValue":  2,
+                                             "cbtValue":  1,
                                              "fixedOddsgoalLine":  "",
                                              "intAllUp":  0,
                                              "intSingle":  0,
@@ -554,12 +554,12 @@
                                              "vbtValue":  0
                                          },
                                          {
-                                             "allUp":  0,
+                                             "allUp":  1,
                                              "bettingAllup":  1,
                                              "bettingSingle":  0,
-                                             "cbtAllUp":  0,
+                                             "cbtAllUp":  1,
                                              "cbtSingle":  0,
-                                             "cbtValue":  2,
+                                             "cbtValue":  1,
                                              "fixedOddsgoalLine":  "",
                                              "intAllUp":  0,
                                              "intSingle":  0,
@@ -583,7 +583,7 @@
                                          }
                                      ],
                         "remark":  "",
-                        "sellStatus":  2,
+                        "sellStatus":  1,
                         "taxDateNo":  "2611121",
                         "ttg":  {
 
@@ -610,31 +610,31 @@
                                 },
                         "groupName":  "",
                         "had":  {
-                                    "a":  "9.60",
+                                    "a":  "10.50",
                                     "af":  "0",
-                                    "d":  "4.95",
+                                    "d":  "5.30",
                                     "df":  "0",
                                     "goalLine":  "",
                                     "goalLineValue":  "",
-                                    "h":  "1.20",
+                                    "h":  "1.17",
                                     "hf":  "0",
-                                    "updateDate":  "2026-11-11",
-                                    "updateTime":  "09:28:01"
+                                    "updateDate":  "2026-11-12",
+                                    "updateTime":  "10:34:41"
                                 },
                         "hafu":  {
 
                                  },
                         "hhad":  {
-                                     "a":  "3.48",
-                                     "af":  "0",
-                                     "d":  "3.45",
-                                     "df":  "0",
+                                     "a":  "3.75",
+                                     "af":  "1",
+                                     "d":  "3.60",
+                                     "df":  "1",
                                      "goalLine":  "-1",
                                      "goalLineValue":  "-1.00",
-                                     "h":  "1.78",
-                                     "hf":  "0",
-                                     "updateDate":  "2026-11-11",
-                                     "updateTime":  "09:28:01"
+                                     "h":  "1.68",
+                                     "hf":  "-1",
+                                     "updateDate":  "2026-11-12",
+                                     "updateTime":  "11:31:36"
                                  },
                         "homeRank":  "[Group 21]",
                         "homeTeamAbbEnName":  "MNG",
@@ -660,74 +660,74 @@
                         "matchWeek":  "周四",
                         "oddsList":  [
                                          {
-                                             "a":  "3.480",
-                                             "d":  "3.450",
+                                             "a":  "3.750",
+                                             "d":  "3.600",
                                              "goalLine":  "-1",
                                              "goalLineF":  "",
                                              "goalLineValue":  "-1.00",
-                                             "h":  "1.780",
+                                             "h":  "1.680",
                                              "matchId":  0,
                                              "matchNum":  0,
                                              "odds":  "",
                                              "poolCode":  "HHAD",
                                              "poolId":  2202821,
-                                             "updateDate":  "2026-11-11",
-                                             "updateTime":  "09:28:01"
+                                             "updateDate":  "2026-11-12",
+                                             "updateTime":  "11:31:36"
                                          },
                                          {
-                                             "a":  "9.600",
-                                             "d":  "4.950",
+                                             "a":  "10.50",
+                                             "d":  "5.300",
                                              "goalLine":  "",
                                              "goalLineF":  "",
                                              "goalLineValue":  "",
-                                             "h":  "1.200",
+                                             "h":  "1.170",
                                              "matchId":  0,
                                              "matchNum":  0,
                                              "odds":  "",
                                              "poolCode":  "HAD",
                                              "poolId":  2202821,
-                                             "updateDate":  "2026-11-11",
-                                             "updateTime":  "09:28:01"
+                                             "updateDate":  "2026-11-12",
+                                             "updateTime":  "10:34:41"
                                          },
                                          {
-                                             "a":  "3.480",
-                                             "d":  "3.450",
+                                             "a":  "3.750",
+                                             "d":  "3.600",
                                              "goalLine":  "-1",
                                              "goalLineF":  "",
                                              "goalLineValue":  "-1.00",
-                                             "h":  "1.780",
+                                             "h":  "1.680",
                                              "matchId":  0,
                                              "matchNum":  0,
                                              "odds":  "",
                                              "poolCode":  "HHAD",
                                              "poolId":  2202823,
-                                             "updateDate":  "2026-11-11",
-                                             "updateTime":  "09:28:01"
+                                             "updateDate":  "2026-11-12",
+                                             "updateTime":  "11:31:36"
                                          },
                                          {
-                                             "a":  "9.600",
-                                             "d":  "4.950",
+                                             "a":  "10.50",
+                                             "d":  "5.300",
                                              "goalLine":  "",
                                              "goalLineF":  "",
                                              "goalLineValue":  "",
-                                             "h":  "1.200",
+                                             "h":  "1.170",
                                              "matchId":  0,
                                              "matchNum":  0,
                                              "odds":  "",
                                              "poolCode":  "HAD",
                                              "poolId":  2202823,
-                                             "updateDate":  "2026-11-11",
-                                             "updateTime":  "09:28:01"
+                                             "updateDate":  "2026-11-12",
+                                             "updateTime":  "10:34:41"
                                          }
                                      ],
                         "poolList":  [
                                          {
-                                             "allUp":  0,
+                                             "allUp":  1,
                                              "bettingAllup":  1,
                                              "bettingSingle":  0,
-                                             "cbtAllUp":  0,
+                                             "cbtAllUp":  1,
                                              "cbtSingle":  0,
-                                             "cbtValue":  2,
+                                             "cbtValue":  1,
                                              "fixedOddsgoalLine":  "",
                                              "intAllUp":  0,
                                              "intSingle":  0,
@@ -750,12 +750,12 @@
                                              "vbtValue":  0
                                          },
                                          {
-                                             "allUp":  0,
+                                             "allUp":  1,
                                              "bettingAllup":  1,
                                              "bettingSingle":  0,
-                                             "cbtAllUp":  0,
+                                             "cbtAllUp":  1,
                                              "cbtSingle":  0,
-                                             "cbtValue":  2,
+                                             "cbtValue":  1,
                                              "fixedOddsgoalLine":  "",
                                              "intAllUp":  0,
                                              "intSingle":  0,
@@ -779,7 +779,7 @@
                                          }
                                      ],
                         "remark":  "",
-                        "sellStatus":  2,
+                        "sellStatus":  1,
                         "taxDateNo":  "2611121",
                         "ttg":  {
 
@@ -806,31 +806,31 @@
                                 },
                         "groupName":  "",
                         "had":  {
-                                    "a":  "10.50",
+                                    "a":  "12.50",
                                     "af":  "0",
-                                    "d":  "5.75",
+                                    "d":  "6.00",
                                     "df":  "0",
                                     "goalLine":  "",
                                     "goalLineValue":  "",
-                                    "h":  "1.15",
+                                    "h":  "1.12",
                                     "hf":  "0",
-                                    "updateDate":  "2026-11-11",
-                                    "updateTime":  "20:16:39"
+                                    "updateDate":  "2026-11-12",
+                                    "updateTime":  "10:35:12"
                                 },
                         "hafu":  {
 
                                  },
                         "hhad":  {
-                                     "a":  "2.00",
+                                     "a":  "2.22",
                                      "af":  "0",
                                      "d":  "3.80",
                                      "df":  "0",
                                      "goalLine":  "-2",
                                      "goalLineValue":  "-2.00",
-                                     "h":  "2.66",
+                                     "h":  "2.35",
                                      "hf":  "0",
-                                     "updateDate":  "2026-11-11",
-                                     "updateTime":  "20:16:30"
+                                     "updateDate":  "2026-11-12",
+                                     "updateTime":  "11:23:36"
                                  },
                         "homeRank":  "[Group 32]",
                         "homeTeamAbbEnName":  "ENG",
@@ -856,74 +856,74 @@
                         "matchWeek":  "周四",
                         "oddsList":  [
                                          {
-                                             "a":  "2.000",
+                                             "a":  "2.220",
                                              "d":  "3.800",
                                              "goalLine":  "-2",
                                              "goalLineF":  "",
                                              "goalLineValue":  "-2.00",
-                                             "h":  "2.660",
+                                             "h":  "2.350",
                                              "matchId":  0,
                                              "matchNum":  0,
                                              "odds":  "",
                                              "poolCode":  "HHAD",
                                              "poolId":  2202810,
-                                             "updateDate":  "2026-11-11",
-                                             "updateTime":  "20:16:30"
+                                             "updateDate":  "2026-11-12",
+                                             "updateTime":  "11:23:36"
                                          },
                                          {
-                                             "a":  "10.50",
-                                             "d":  "5.750",
+                                             "a":  "12.50",
+                                             "d":  "6.000",
                                              "goalLine":  "",
                                              "goalLineF":  "",
                                              "goalLineValue":  "",
-                                             "h":  "1.150",
+                                             "h":  "1.120",
                                              "matchId":  0,
                                              "matchNum":  0,
                                              "odds":  "",
                                              "poolCode":  "HAD",
                                              "poolId":  2202810,
-                                             "updateDate":  "2026-11-11",
-                                             "updateTime":  "20:16:39"
+                                             "updateDate":  "2026-11-12",
+                                             "updateTime":  "10:35:12"
                                          },
                                          {
-                                             "a":  "2.000",
+                                             "a":  "2.220",
                                              "d":  "3.800",
                                              "goalLine":  "-2",
                                              "goalLineF":  "",
                                              "goalLineValue":  "-2.00",
-                                             "h":  "2.660",
+                                             "h":  "2.350",
                                              "matchId":  0,
                                              "matchNum":  0,
                                              "odds":  "",
                                              "poolCode":  "HHAD",
                                              "poolId":  2202812,
-                                             "updateDate":  "2026-11-11",
-                                             "updateTime":  "20:16:30"
+                                             "updateDate":  "2026-11-12",
+                                             "updateTime":  "11:23:36"
                                          },
                                          {
-                                             "a":  "10.50",
-                                             "d":  "5.750",
+                                             "a":  "12.50",
+                                             "d":  "6.000",
                                              "goalLine":  "",
                                              "goalLineF":  "",
                                              "goalLineValue":  "",
-                                             "h":  "1.150",
+                                             "h":  "1.120",
                                              "matchId":  0,
                                              "matchNum":  0,
                                              "odds":  "",
                                              "poolCode":  "HAD",
                                              "poolId":  2202812,
-                                             "updateDate":  "2026-11-11",
-                                             "updateTime":  "20:16:39"
+                                             "updateDate":  "2026-11-12",
+                                             "updateTime":  "10:35:12"
                                          }
                                      ],
                         "poolList":  [
                                          {
-                                             "allUp":  0,
+                                             "allUp":  1,
                                              "bettingAllup":  1,
                                              "bettingSingle":  0,
-                                             "cbtAllUp":  0,
+                                             "cbtAllUp":  1,
                                              "cbtSingle":  0,
-                                             "cbtValue":  2,
+                                             "cbtValue":  1,
                                              "fixedOddsgoalLine":  "",
                                              "intAllUp":  0,
                                              "intSingle":  0,
@@ -946,12 +946,12 @@
                                              "vbtValue":  0
                                          },
                                          {
-                                             "allUp":  0,
+                                             "allUp":  1,
                                              "bettingAllup":  1,
                                              "bettingSingle":  0,
-                                             "cbtAllUp":  0,
+                                             "cbtAllUp":  1,
                                              "cbtSingle":  0,
-                                             "cbtValue":  2,
+                                             "cbtValue":  1,
                                              "fixedOddsgoalLine":  "",
                                              "intAllUp":  0,
                                              "intSingle":  0,
@@ -975,7 +975,7 @@
                                          }
                                      ],
                         "remark":  "",
-                        "sellStatus":  2,
+                        "sellStatus":  1,
                         "taxDateNo":  "2611121",
                         "ttg":  {
 
@@ -1060,12 +1060,12 @@
                                      ],
                         "poolList":  [
                                          {
-                                             "allUp":  0,
+                                             "allUp":  1,
                                              "bettingAllup":  1,
                                              "bettingSingle":  0,
-                                             "cbtAllUp":  0,
+                                             "cbtAllUp":  1,
                                              "cbtSingle":  0,
-                                             "cbtValue":  2,
+                                             "cbtValue":  1,
                                              "fixedOddsgoalLine":  "",
                                              "intAllUp":  0,
                                              "intSingle":  0,
@@ -1089,7 +1089,7 @@
                                          }
                                      ],
                         "remark":  "",
-                        "sellStatus":  2,
+                        "sellStatus":  1,
                         "taxDateNo":  "2611121",
                         "ttg":  {
 
