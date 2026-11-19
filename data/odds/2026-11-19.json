@@ -1,6 +1,6 @@
 {
     "date":  "2026-11-19",
-    "fetchedAt":  "2026-11-19T11:59:30+08:00",
+    "fetchedAt":  "2026-11-19T12:30:03+08:00",
     "source":  "https://webapi.sporttery.cn/gateway/jc/football/getMatchCalculatorV1.qry",
     "count":  4,
     "matches":  [
@@ -23,13 +23,13 @@
                         "groupName":  "",
                         "had":  {
                                     "a":  "2.26",
-                                    "af":  "-1",
+                                    "af":  "0",
                                     "d":  "3.10",
-                                    "df":  "1",
+                                    "df":  "0",
                                     "goalLine":  "",
                                     "goalLineValue":  "",
                                     "h":  "2.67",
-                                    "hf":  "1",
+                                    "hf":  "0",
                                     "updateDate":  "2026-11-19",
                                     "updateTime":  "11:17:16"
                                 },
@@ -38,17 +38,17 @@
                                  },
                         "hhad":  {
                                      "a":  "5.02",
-                                     "af":  "-1",
+                                     "af":  "0",
                                      "d":  "3.85",
-                                     "df":  "-1",
+                                     "df":  "0",
                                      "goalLine":  "+1",
                                      "goalLineValue":  "+1.00",
                                      "h":  "1.47",
-                                     "hf":  "1",
+                                     "hf":  "0",
                                      "updateDate":  "2026-11-19",
                                      "updateTime":  "11:17:27"
                                  },
-                        "homeRank":  "[巴甲15]",
+                        "homeRank":  "[巴甲16]",
                         "homeTeamAbbEnName":  "VTL",
                         "homeTeamAbbName":  "维多利亚",
                         "homeTeamAllName":  "维多利亚",
@@ -431,14 +431,14 @@
                         "hhad":  {
                                      "a":  "1.44",
                                      "af":  "0",
-                                     "d":  "4.35",
-                                     "df":  "0",
+                                     "d":  "4.25",
+                                     "df":  "-1",
                                      "goalLine":  "-1",
                                      "goalLineValue":  "-1.00",
-                                     "h":  "4.65",
-                                     "hf":  "0",
+                                     "h":  "4.77",
+                                     "hf":  "1",
                                      "updateDate":  "2026-11-19",
-                                     "updateTime":  "10:17:01"
+                                     "updateTime":  "12:04:34"
                                  },
                         "homeRank":  "[美职8]",
                         "homeTeamAbbEnName":  "OCY",
@@ -465,18 +465,18 @@
                         "oddsList":  [
                                          {
                                              "a":  "1.440",
-                                             "d":  "4.350",
+                                             "d":  "4.250",
                                              "goalLine":  "-1",
                                              "goalLineF":  "",
                                              "goalLineValue":  "-1.00",
-                                             "h":  "4.650",
+                                             "h":  "4.770",
                                              "matchId":  0,
                                              "matchNum":  0,
                                              "odds":  "",
                                              "poolCode":  "HHAD",
                                              "poolId":  2203457,
                                              "updateDate":  "2026-11-19",
-                                             "updateTime":  "10:17:01"
+                                             "updateTime":  "12:04:34"
                                          },
                                          {
                                              "a":  "2.340",
@@ -495,18 +495,18 @@
                                          },
                                          {
                                              "a":  "1.440",
-                                             "d":  "4.350",
+                                             "d":  "4.250",
                                              "goalLine":  "-1",
                                              "goalLineF":  "",
                                              "goalLineValue":  "-1.00",
-                                             "h":  "4.650",
+                                             "h":  "4.770",
                                              "matchId":  0,
                                              "matchNum":  0,
                                              "odds":  "",
                                              "poolCode":  "HHAD",
                                              "poolId":  2203466,
                                              "updateDate":  "2026-11-19",
-                                             "updateTime":  "10:17:01"
+                                             "updateTime":  "12:04:34"
                                          },
                                          {
                                              "a":  "2.340",
