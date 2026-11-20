@@ -1,7 +1,7 @@
 {
     "repo":  "tijcai-football-data",
-    "updatedAt":  "2026-11-19T12:30:03+08:00",
-    "dateCount":  17,
+    "updatedAt":  "2026-11-20T12:32:18+08:00",
+    "dateCount":  18,
     "dates":  {
                   "2026-11-03":  {
                                      "matches":  12,
@@ -70,6 +70,10 @@
                   "2026-11-19":  {
                                      "matches":  4,
                                      "updatedAt":  "2026-11-19T11:59:30+08:00"
+                                 },
+                  "2026-11-20":  {
+                                     "matches":  4,
+                                     "updatedAt":  "2026-11-20T12:32:17+08:00"
                                  }
               }
 }
